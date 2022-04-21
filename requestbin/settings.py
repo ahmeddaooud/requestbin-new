@@ -1,1 +1,1 @@
-SITE_URL = "https://requestbin.app"
+SITE_URL = "https://apsbin.herokuapp.com/"
